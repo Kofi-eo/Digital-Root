@@ -8,6 +8,4 @@ function digital_root(n) {
 
   return result >= 10 ? digital_root(result) : result;
 }
-
-//EXAMPLE TEST
-console.log(digital_root(12)); //Result ---> 3
+console.log(digital_root(12));
