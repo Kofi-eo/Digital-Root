@@ -1,2 +1,1 @@
-# Digital Sum
- (Day7 of 100}
+# Digital Root (Day7 of 100}
